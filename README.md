@@ -7,6 +7,4 @@ GIT SYNC https://support.insomnia.rest/article/193-git-sync
 - si es la primera vez se crea una carpeta .insomnia con los archivos de configuracion pusheados
 
 
----
-Version Control Sync (pago)
-https://support.insomnia.rest/article/165-version-control-sync
+
