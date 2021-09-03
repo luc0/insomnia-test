@@ -6,9 +6,6 @@ GIT SYNC https://support.insomnia.rest/article/193-git-sync
 - modificar endpoints > commit > push.
 - si es la primera vez se crea una carpeta .insomnia con los archivos de configuracion pusheados
 
-# Usuario 2
-- Loguearse, Clonar y "Crear proyecto local"
-- "Crear snapshot"
 
 ---
 Version Control Sync (pago)
